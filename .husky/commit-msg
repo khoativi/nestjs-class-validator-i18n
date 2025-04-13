@@ -1,0 +1,1 @@
+commitlint -g .commitlintrc.mjs --edit $1
